@@ -1,0 +1,38 @@
+using System;
+
+// Create a class named MathClass that contains our method.
+class MathClass
+{
+    // Create a void method that accepts two integer parameters.
+    public void PerformOperation(int firstNumber, int secondNumber)
+    {
+        // Perform a math operation on the first integer by dividing it by 2.
+        int result = firstNumber / 2;
+
+        // Display the result of the math operation on the screen.
+        Console.WriteLine("The first number divided by 2 is: " + result);
+
+        // Display the second integer on the screen.
+        Console.WriteLine("The second number is: " + secondNumber);
+    }
+}
+
+// Create the main program class.
+class Program
+{
+    // The Main method is where the console application starts running.
+    static void Main(string[] args)
+    {
+        // Instantiate (create) an object of the MathClass class.
+        MathClass mathOperation = new MathClass();
+
+        // Call the method and pass two numbers as arguments.
+        mathOperation.PerformOperation(20, 10);
+
+        // Call the same method again, this time specifying the parameters by name.
+        mathOperation.PerformOperation(firstNumber: 30, secondNumber: 15);
+
+        // Keep the console window open so the user can see the results.
+        Console.ReadLine();
+    }
+}
