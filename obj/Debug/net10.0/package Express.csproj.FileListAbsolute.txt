@@ -1,0 +1,15 @@
+C:\Users\ymele\OneDrive\Documents\GitHub\package Express\bin\Debug\net10.0\package Express.exe
+C:\Users\ymele\OneDrive\Documents\GitHub\package Express\bin\Debug\net10.0\package Express.deps.json
+C:\Users\ymele\OneDrive\Documents\GitHub\package Express\bin\Debug\net10.0\package Express.runtimeconfig.json
+C:\Users\ymele\OneDrive\Documents\GitHub\package Express\bin\Debug\net10.0\package Express.dll
+C:\Users\ymele\OneDrive\Documents\GitHub\package Express\bin\Debug\net10.0\package Express.pdb
+C:\Users\ymele\OneDrive\Documents\GitHub\package Express\obj\Debug\net10.0\package Express.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ymele\OneDrive\Documents\GitHub\package Express\obj\Debug\net10.0\package Express.AssemblyInfoInputs.cache
+C:\Users\ymele\OneDrive\Documents\GitHub\package Express\obj\Debug\net10.0\package Express.AssemblyInfo.cs
+C:\Users\ymele\OneDrive\Documents\GitHub\package Express\obj\Debug\net10.0\package Express.csproj.CoreCompileInputs.cache
+C:\Users\ymele\OneDrive\Documents\GitHub\package Express\obj\Debug\net10.0\package Express.sourcelink.json
+C:\Users\ymele\OneDrive\Documents\GitHub\package Express\obj\Debug\net10.0\package Express.dll
+C:\Users\ymele\OneDrive\Documents\GitHub\package Express\obj\Debug\net10.0\refint\package Express.dll
+C:\Users\ymele\OneDrive\Documents\GitHub\package Express\obj\Debug\net10.0\package Express.pdb
+C:\Users\ymele\OneDrive\Documents\GitHub\package Express\obj\Debug\net10.0\package Express.genruntimeconfig.cache
+C:\Users\ymele\OneDrive\Documents\GitHub\package Express\obj\Debug\net10.0\ref\package Express.dll
