@@ -5,7 +5,14 @@ namespace PackageExpress
     class Program
     {
         static void Main(string[] args)
-        {
+        {// Create an Employee object.
+Employee employee = new Employee();
+
+// Use polymorphism to create an IQuittable reference to the Employee object.
+IQuittable quittable = employee;
+
+// Call the Quit method through the IQuittable interface.
+quittable.Quit();
             // Instantiate the MathClass
             MathClass math = new MathClass();
 
